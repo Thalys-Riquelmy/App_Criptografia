@@ -77,14 +77,6 @@ O servidor iniciará em `http://localhost:5000`.
 
 ## 📂 **Estrutura do Projeto**  
 ```
-Perfeito, Thalys! A estrutura está bem organizada, com diretórios específicos para **uploads**, **downloads**, e o ambiente virtual (`venv`). 
-
-Vou adicionar essa estrutura ao seu **README** para que fique ainda mais claro para os usuários como o projeto está organizado. Aqui está a atualização:
-
----
-
-## 📂 **Estrutura do Projeto**  
-```
 📁 App_Criptografia
 │── 📁 uploads/          # Armazena arquivos enviados
 │── 📁 downloads/        # Armazena chaves criptográficas
@@ -95,8 +87,11 @@ Vou adicionar essa estrutura ao seu **README** para que fique ainda mais claro p
 │── 🔹 meuarquivo.txt    # Arquivo de teste
 │── 🔹 meuarquivo.txt.encrypted # Arquivo de teste criptografado
 │── 🔹 README.md         # Documentação do projeto
+│── 🔹 requirements.txt  # Dependências do projeto
 ```
+
 ## 🛡️ **Por que Usar Este Projeto?**  
 🔹 **Proteção de Dados** – Ideal para quem deseja criptografar arquivos sensíveis em **sistemas empresariais** ou **aplicações pessoais**.  
 🔹 **Automação Inteligente** – A integração com **machine learning** elimina a necessidade de decidir manualmente o algoritmo adequado.  
 🔹 **Segurança e Facilidade** – O uso de **Flask** e **API REST** permite integração rápida com diferentes aplicações.  
+
